@@ -1,0 +1,93 @@
+---
+Title: "VS Code Theme Config"
+Author: "Andrew Seaman"
+Date: "2025-05-13"
+format:
+  html:
+    self-contained: true  
+    page-layout: full
+    title-block-banner: true
+    toc: true
+    toc-depth: 3
+    toc-location: body
+    number-sections: false
+    html-math-method: katex
+    code-fold: true
+    code-summary: "Show the code"
+    code-overflow: wrap
+    code-copy: hover
+    code-tools:
+        source: false
+        toggle: true
+        caption: See code
+---
+
+
+# Themes and Formatting:
+
+
+## Theme Switcher
+
+|  #  | Theme                      | Publisher            | Current |
+|-----|----------------------------|----------------------|---------|
+| 01. | Auto Dark Mode             | LinusU               |    1    |
+<!-- | 02. |                            |                      |    0    | -->
+<!-- | 03. |                            |                      |    0    | -->
+<!-- | 04. |                            |                      |    0    | -->
+<!-- | 05. |                            |                      |    0    | -->
+<!-- | 06. |                            |                      |    0    | -->
+<!-- | 07. |                            |                      |    0    | -->
+<!-- | 08. |                            |                      |    0    | -->
+<!-- | 09. |                            |                      |    0    | -->
+<!-- | 10. |                            |                      |    0    | -->
+
+
+
+## Light
+
+|  #  | Theme                      | Publisher            | Current |
+|-----|----------------------------|----------------------|---------|
+| 01. | Ra Spring                  | rahmanyerli          |    1    |
+| 02. | Bluloco Light              | Umut Topuzoğlu       |    0    |
+<!-- | 03. |                            |                      |    0    | -->
+<!-- | 04. |                            |                      |    0    | -->
+<!-- | 05. |                            |                      |    0    | -->
+<!-- | 06. |                            |                      |    0    | -->
+<!-- | 07. |                            |                      |    0    | -->
+<!-- | 08. |                            |                      |    0    | -->
+<!-- | 09. |                            |                      |    0    | -->
+<!-- | 10. |                            |                      |    0    | -->
+
+
+
+## Dark
+
+|  #  | Theme                      | Publisher            | Current |
+|-----|----------------------------|----------------------|---------|
+| 01. | Dark SynthWave '84'        | Aaron Young          |    1    |
+| 02. | Dark Green Jungle          | moondevaa            |    0    |
+| 03. | Dracula                    | Dracula Theme        |    0    |
+| 04. | Cobalt2                    | Wes Bos              |    0    |
+| 05. | Theme                      | Mhammed Talhaouy     |    0    |
+| 06. | Night Owl                  | sarah.drasner        |    0    |
+<!-- | 07. |                            |                      |    0    | -->
+<!-- | 08. |                            |                      |    0    | -->
+<!-- | 09. |                            |                      |    0    | -->
+<!-- | 10. |                            |                      |    0    | -->
+
+
+
+## Code Formatting
+
+|  #  | Theme                      | Publisher            | Current |
+|-----|----------------------------|----------------------|---------|
+| 01. | Rainbox CSV                | mechatroner          |    1    |
+| 02. | CSharpier                  | csharpier            |    1    |
+<!-- | 03. |                            |                      |    0    | -->
+<!-- | 04. |                            |                      |    0    | -->
+<!-- | 05. |                            |                      |    0    | -->
+<!-- | 06. |                            |                      |    0    | -->
+<!-- | 07. |                            |                      |    0    | -->
+<!-- | 08. |                            |                      |    0    | -->
+<!-- | 09. |                            |                      |    0    | -->
+<!-- | 10. |                            |                      |    0    | -->
