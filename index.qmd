@@ -1,0 +1,12 @@
+---
+title: "Welcome"
+format:
+  html:
+    toc: false
+---
+
+# Welcome to My VS Code + Dev Environment Wiki
+
+This site tracks personal preferences, themes, extensions, configs, and other dev setup notes.
+
+Use the sidebar or nav bar to explore the sections.

@@ -1,0 +1,49 @@
+project:
+  type: website
+
+website:
+  title: "Andrew Seaman – VS Code & Dev Environment Wiki"
+  favicon: Images/favicon_VS-Code.png
+  back-to-top-navigation: true
+  site-url: https://andrewjseaman.github.io/vs-code-dev-environment-wiki
+  repo-url: https://github.com/andrewjseaman/vs-code-dev-environment-wiki
+  issue-url: https://github.com/andrewjseaman/vs-code-dev-environment-wiki/issues/new
+  repo-actions: [issue]
+
+  page-footer: 
+    border: true
+    left: "Andrew Seaman 2025©"
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/andrew-james-seaman/
+
+  navbar:
+    background: primary
+    search: true
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "Theme Tracker"
+        file: Notes/meta-themes.qmd
+
+  sidebar:
+    - title: "Dev Environment Notes"
+      style: "docked"
+      background: light
+      contents:
+        - Notes/meta-themes.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: Formatting/styles.css
+    toc: true
+    toc-location: left     # Possibly remove later
+    number-sections: true  # Possibly remove later
+
+publish:
+  provider: gh-pages
+    
+
