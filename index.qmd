@@ -1,12 +1,9 @@
 ---
-title: "Welcome"
+title: "Welcome,"
 format:
   html:
     toc: false
 ---
-
-# Welcome to My VS Code + Dev Environment Wiki
-
-This site tracks personal preferences, themes, extensions, configs, and other dev setup notes.
+My name is Andrew Seaman and this site tracks personal preferences, themes, extensions, configs, and other dev setup notes related to VS Code.
 
 Use the sidebar or nav bar to explore the sections.
