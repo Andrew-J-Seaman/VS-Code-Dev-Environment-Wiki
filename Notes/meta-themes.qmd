@@ -7,10 +7,6 @@ format:
     self-contained: true  
     page-layout: full
     title-block-banner: true
-    toc: true
-    toc-depth: 3
-    toc-location: body
-    number-sections: false
     html-math-method: katex
     code-fold: true
     code-summary: "Show the code"
@@ -23,12 +19,23 @@ format:
 ---
 
 
-# Themes and Formatting:
+# Themes and Formatting
 
+---
 
-## Theme Switcher
+During the day a light theme is automatically enabled and in the evening a dark theme is enabled. This is accomplished with the `Auto Dark Mode` extension by LinusU. Additionally, minor edits as seen below to the `settings.json` file within VS Code/Cursor were required:
 
-|  #  | Theme                      | Publisher            | Current |
+<div style="text-align: center;">
+  <img src="../Images/edits_settings-dot-json.png" width="400px">
+</div>
+
+The second line of code in the image above which is commented out is an example of an alternative dark theme.
+
+</BR>
+
+### Theme Switcher
+
+| \#  | Theme                      | Publisher            | Current |
 |-----|----------------------------|----------------------|---------|
 | 01. | Auto Dark Mode             | LinusU               |    1    |
 <!-- | 02. |                            |                      |    0    | -->
@@ -41,11 +48,11 @@ format:
 <!-- | 09. |                            |                      |    0    | -->
 <!-- | 10. |                            |                      |    0    | -->
 
+</BR>
 
+### Light
 
-## Light
-
-|  #  | Theme                      | Publisher            | Current |
+| \#  | Theme                      | Publisher            | Current |
 |-----|----------------------------|----------------------|---------|
 | 01. | Ra Spring                  | rahmanyerli          |    1    |
 | 02. | Bluloco Light              | Umut Topuzoğlu       |    0    |
@@ -58,11 +65,11 @@ format:
 <!-- | 09. |                            |                      |    0    | -->
 <!-- | 10. |                            |                      |    0    | -->
 
+</BR>
 
+### Dark
 
-## Dark
-
-|  #  | Theme                      | Publisher            | Current |
+| \#  | Theme                      | Publisher            | Current |
 |-----|----------------------------|----------------------|---------|
 | 01. | Dark SynthWave '84'        | Aaron Young          |    1    |
 | 02. | Dark Green Jungle          | moondevaa            |    0    |
@@ -75,11 +82,11 @@ format:
 <!-- | 09. |                            |                      |    0    | -->
 <!-- | 10. |                            |                      |    0    | -->
 
+</BR>
 
+### Code Formatting
 
-## Code Formatting
-
-|  #  | Theme                      | Publisher            | Current |
+| \#  | Theme                      | Publisher            | Current |
 |-----|----------------------------|----------------------|---------|
 | 01. | Rainbox CSV                | mechatroner          |    1    |
 | 02. | CSharpier                  | csharpier            |    1    |
@@ -91,3 +98,7 @@ format:
 <!-- | 08. |                            |                      |    0    | -->
 <!-- | 09. |                            |                      |    0    | -->
 <!-- | 10. |                            |                      |    0    | -->
+
+
+
+
