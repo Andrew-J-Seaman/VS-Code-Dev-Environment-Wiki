@@ -60,5 +60,41 @@
     "title": "Welcome,",
     "section": "",
     "text": "My name is Andrew Seaman and this site tracks personal preferences, themes, extensions, configs, and other dev setup notes related to VS Code.\nUse the sidebar or nav bar to explore the sections.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Notes/uml.html",
+    "href": "Notes/uml.html",
+    "title": "UML Design",
+    "section": "",
+    "text": "Several tools exist for creating UML, or class diagrams, preparatory to coding a project. Online tools such as drawio.com are great! However, for those with a preference to use in-editor tools I have found the extensions below to be useful.\n\n\nUmlet allows users to create a wide array of useful diagrams. So far, my primary application of this tool has been in designing class diagrams for relatively basic C# programs while at University.\n\n&lt;img src=\"../Images/Notes/uml/CSE210_Spring-2025_Dev4_Mindfullness_class-diagram.png\"&gt;"
+  },
+  {
+    "objectID": "Notes/uml.html#umlet-by-the-umlet-team",
+    "href": "Notes/uml.html#umlet-by-the-umlet-team",
+    "title": "UML Design",
+    "section": "",
+    "text": "Umlet allows users to create a wide array of useful diagrams. So far, my primary application of this tool has been in designing class diagrams for relatively basic C# programs while at University.\n\n&lt;img src=\"../Images/Notes/uml/CSE210_Spring-2025_Dev4_Mindfullness_class-diagram.png\"&gt;"
+  },
+  {
+    "objectID": "Notes/uml-tools.html",
+    "href": "Notes/uml-tools.html",
+    "title": "UML Design Tools",
+    "section": "",
+    "text": "Several tools exist for creating UML, or class diagrams, preparatory to coding a project. Online tools such as Drawio are great! However, for those with a preference to use in-editor tools I have found the extensions below to be useful.\n\n\nUmlet allows users to create a wide array of useful diagrams. So far, my primary application of this tool has been in designing class diagrams for relatively basic C# programs while at University. For example, the below class diagram is for a mindfullness activities app:",
+    "crumbs": [
+      "Theme Tracker",
+      "UML Design Tools"
+    ]
+  },
+  {
+    "objectID": "Notes/uml-tools.html#umlet-by-the-umlet-team",
+    "href": "Notes/uml-tools.html#umlet-by-the-umlet-team",
+    "title": "UML Design Tools",
+    "section": "",
+    "text": "Umlet allows users to create a wide array of useful diagrams. So far, my primary application of this tool has been in designing class diagrams for relatively basic C# programs while at University. For example, the below class diagram is for a mindfullness activities app:",
+    "crumbs": [
+      "Theme Tracker",
+      "UML Design Tools"
+    ]
   }
 ]

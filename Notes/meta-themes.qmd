@@ -18,7 +18,6 @@ format:
         caption: See code
 ---
 
-
 # Themes and Formatting
 
 ---
@@ -26,7 +25,7 @@ format:
 During the day a light theme is automatically enabled and in the evening a dark theme is enabled. This is accomplished with the `Auto Dark Mode` extension by LinusU. Additionally, minor edits as seen below to the `settings.json` file within VS Code/Cursor were required:
 
 <div style="text-align: center;">
-  <img src="../Images/edits_settings-dot-json.png" width="400px">
+  <img src="../Images/Notes/meta-themes/edits_settings-dot-json.png" width="400px">
 </div>
 
 The second line of code in the image above which is commented out is an example of an alternative dark theme.

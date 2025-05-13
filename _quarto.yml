@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Andrew Seaman – VS Code & Dev Environment Wiki"
-  favicon: Images/favicon_VS-Code.png
+  favicon: Images/favicon/favicon_VS-Code-logo.png
   back-to-top-navigation: true
   site-url: https://Andrew-J-Seaman.github.io/vs-code-dev-environment-wiki
   repo-url: https://github.com/Andrew-J-Seaman/vs-code-dev-environment-wiki
@@ -25,6 +25,8 @@ website:
         file: index.qmd
       - text: "Theme Tracker"
         file: Notes/meta-themes.qmd
+      - text: "UML Design Tools"
+        file: Notes/uml-tools.qmd
 
   sidebar:
     - title: "Dev Environment Notes"
@@ -32,6 +34,7 @@ website:
       background: light
       contents:
         - Notes/meta-themes.qmd
+        - Notes/uml-tools.qmd
 
 format:
   html:
