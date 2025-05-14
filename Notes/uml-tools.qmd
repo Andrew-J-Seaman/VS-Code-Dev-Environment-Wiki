@@ -24,12 +24,17 @@ format:
 
 Several tools exist for creating UML, or class diagrams, preparatory to coding a project. Online tools such as <a href="https://www.drawio.com">Drawio</a> are great! However, for those with a preference to use in-editor tools I have found the extensions below to be useful.
 
-## Umlet by The Umlet Team
+## UmLet by The UmLet Team
 
-*Umlet* allows users to create a wide array of useful diagrams. So far, my primary application of this tool has been in designing class diagrams for relatively basic C# programs while at University. For example, the below class diagram is for a mindfullness activities app:
+Direct from the UmLet website:
+
+"UMLet is a free, open-source UML tool with a simple user interface: draw UML diagrams fast, create sequence and activity diagrams from plain text, share via exports to eps, pdf, jpg, svg, and clipboard, and develop new, custom UML elements."
+
+"Find below the full-featured UMLet as <a href="https://www.umlet.com/changes.htm">stand-alone app</a> for Windows, macOS, and Linux, or as Eclipse plugin. It is also available as a <a href="https://www.umletino.com">web app</a> called UmLetino, and as <a href="https://marketplace.cursorapi.com/items?itemName=theumletteam.umlet">extension</a> to Visual Studio Code."
+
+ So far, my primary application of this tool has been in designing class diagrams for relatively basic C# programs while at University. For example, the below class diagram is for a mindfullness activities app:
 
 <div style="text-align: center;">
   <img src="../Images/Notes/uml-tools/CSE210_Spring-2025_Dev4_Mindfullness_class-diagram.png" width="600px">
 </div>
 
----

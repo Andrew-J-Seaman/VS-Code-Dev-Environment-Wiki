@@ -4,7 +4,7 @@
     "href": "Notes/meta-themes.html",
     "title": "Themes and Formatting",
     "section": "",
-    "text": "Themes and Formatting\n\nDuring the day a light theme is automatically enabled and in the evening a dark theme is enabled. This is accomplished with the Auto Dark Mode extension by LinusU. Additionally, minor edits as seen below to the settings.json file within VS Code/Cursor were required:\n\n\n\nThe second line of code in the image above which is commented out is an example of an alternative dark theme.\n\n\nTheme Switcher\n\n\n\n#\nTheme\nPublisher\nCurrent\n\n\n\n\n01.\nAuto Dark Mode\nLinusU\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLight\n\n\n\n#\nTheme\nPublisher\nCurrent\n\n\n\n\n01.\nRa Spring\nrahmanyerli\n1\n\n\n02.\nBluloco Light\nUmut Topuzoğlu\n0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDark\n\n\n\n#\nTheme\nPublisher\nCurrent\n\n\n\n\n01.\nDark SynthWave ‘84’\nAaron Young\n1\n\n\n02.\nDark Green Jungle\nmoondevaa\n0\n\n\n03.\nDracula\nDracula Theme\n0\n\n\n04.\nCobalt2\nWes Bos\n0\n\n\n05.\nTheme\nMhammed Talhaouy\n0\n\n\n06.\nNight Owl\nsarah.drasner\n0\n\n\n\n\n\n\n\n\n\n\nCode Formatting\n\n\n\n#\nTheme\nPublisher\nCurrent\n\n\n\n\n01.\nRainbox CSV\nmechatroner\n1\n\n\n02.\nCSharpier\ncsharpier\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top",
+    "text": "Themes and Formatting\n\nDuring the day a light theme is automatically enabled and in the evening a dark theme is enabled. This is accomplished with the Auto Dark Mode extension by LinusU. Additionally, minor edits as seen below to the settings.json file within VS Code were required:\n\n\n\nThe second line of code in the image above which is commented out is an example of an alternative dark theme.\n\n\nTheme Switcher\n\n\n\n#\nTheme\nPublisher\nCurrent\n\n\n\n\n01.\nAuto Dark Mode\nLinusU\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLight\n\n\n\n#\nTheme\nPublisher\nCurrent\n\n\n\n\n01.\nRa Spring\nrahmanyerli\n1\n\n\n02.\nBluloco Light\nUmut Topuzoğlu\n0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDark\n\n\n\n#\nTheme\nPublisher\nCurrent\n\n\n\n\n01.\nDark SynthWave ‘84’\nAaron Young\n1\n\n\n02.\nDark Green Jungle\nmoondevaa\n0\n\n\n03.\nDracula\nDracula Theme\n0\n\n\n04.\nCobalt2\nWes Bos\n0\n\n\n05.\nTheme\nMhammed Talhaouy\n0\n\n\n06.\nNight Owl\nsarah.drasner\n0\n\n\n\n\n\n\n\n\n\n\nCode Formatting\n\n\n\n#\nTheme\nPublisher\nCurrent\n\n\n\n\n01.\nRainbox CSV\nmechatroner\n1\n\n\n02.\nCSharpier\ncsharpier\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Theme Tracker",
       "Themes and Formatting"
@@ -80,7 +80,7 @@
     "href": "Notes/uml-tools.html",
     "title": "UML Design Tools",
     "section": "",
-    "text": "Several tools exist for creating UML, or class diagrams, preparatory to coding a project. Online tools such as Drawio are great! However, for those with a preference to use in-editor tools I have found the extensions below to be useful.\n\n\nUmlet allows users to create a wide array of useful diagrams. So far, my primary application of this tool has been in designing class diagrams for relatively basic C# programs while at University. For example, the below class diagram is for a mindfullness activities app:",
+    "text": "Several tools exist for creating UML, or class diagrams, preparatory to coding a project. Online tools such as Drawio are great! However, for those with a preference to use in-editor tools I have found the extensions below to be useful.\n\n\nDirect from the UmLet website:\n“UMLet is a free, open-source UML tool with a simple user interface: draw UML diagrams fast, create sequence and activity diagrams from plain text, share via exports to eps, pdf, jpg, svg, and clipboard, and develop new, custom UML elements.”\n“Find below the full-featured UMLet as stand-alone app for Windows, macOS, and Linux, or as Eclipse plugin. It is also available as web app called UmLetino, and as extension to Visual Studio Code.”\nSo far, my primary application of this tool has been in designing class diagrams for relatively basic C# programs while at University. For example, the below class diagram is for a mindfullness activities app:",
     "crumbs": [
       "Theme Tracker",
       "UML Design Tools"
@@ -91,7 +91,7 @@
     "href": "Notes/uml-tools.html#umlet-by-the-umlet-team",
     "title": "UML Design Tools",
     "section": "",
-    "text": "Umlet allows users to create a wide array of useful diagrams. So far, my primary application of this tool has been in designing class diagrams for relatively basic C# programs while at University. For example, the below class diagram is for a mindfullness activities app:",
+    "text": "Direct from the UmLet website:\n“UMLet is a free, open-source UML tool with a simple user interface: draw UML diagrams fast, create sequence and activity diagrams from plain text, share via exports to eps, pdf, jpg, svg, and clipboard, and develop new, custom UML elements.”\n“Find below the full-featured UMLet as stand-alone app for Windows, macOS, and Linux, or as Eclipse plugin. It is also available as web app called UmLetino, and as extension to Visual Studio Code.”\nSo far, my primary application of this tool has been in designing class diagrams for relatively basic C# programs while at University. For example, the below class diagram is for a mindfullness activities app:",
     "crumbs": [
       "Theme Tracker",
       "UML Design Tools"
